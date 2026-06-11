@@ -32,7 +32,8 @@
   <a href="https://sites.google.com/view/hub-leo-research">Research Lab</a> •
   <a href="https://iso-hallow.github.io/mistworld-web/">MistWorld</a> •
   <a href="https://iso-hallow.github.io/sysadmin-quest/">Sysadmin-Quest</a> •
-  <a href="https://iso-hallow.github.io/docker-navigator/">docker-navigator</a>
+  <a href="https://iso-hallow.github.io/docker-navigator/">docker-navigator</a> •
+  <a href="https://iso-hallow.github.io/podman-navigator/">docker-navigator</a>
 </p>
 
 <!-- ==================== ИНЖЕНЕРНЫЙ ОТСЕК (HIDDEN) ==================== -->
