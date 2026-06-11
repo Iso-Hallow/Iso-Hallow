@@ -61,6 +61,8 @@
       <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Portainer-13B5EA?style=for-the-badge&logo=portainer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />      
     </td>
   </tr>
   <tr>
@@ -135,3 +137,7 @@
 </div>
 
 </details>
+
+<p align="right">
+  <sub><sup>PGP Key: 0x00 — Not for sale. Not for tracking.</sup></sub>
+</p>
