@@ -60,9 +60,7 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Portainer-13B5EA?style=for-the-badge&logo=portainer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Portainer-13B5EA?style=for-the-badge&logo=portainer&logoColor=white" />   
     </td>
   </tr>
   <tr>
@@ -91,6 +89,14 @@
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
       <img src="https://img.shields.io/badge/Uptime_Kuma-17212b?style=for-the-badge&logo=uptime-kuma&logoColor=00B11D" />
       <img src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Security & Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge&logo=metasploit&logoColor=white" />
     </td>
   </tr>
 </table>
