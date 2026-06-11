@@ -98,6 +98,7 @@
       <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
       <img src="https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge&logo=metasploit&logoColor=white" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+      <img src="https://img.shields.io/badge/OSINT-2C5F2D?style=for-the-badge&logo=eye&logoColor=white" />
     </td>
   </tr>
 </table>
