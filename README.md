@@ -101,6 +101,15 @@
       <img src="https://img.shields.io/badge/OSINT-2C5F2D?style=for-the-badge&logo=eye&logoColor=white" />
     </td>
   </tr>
+  <tr>
+  <td align="center"><b>AI & MLOps Infrastructure</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open_WebUI-00B4D8?style=for-the-badge&logo=openwebui&logoColor=white" />
+    <img src="https://img.shields.io/badge/ROCm-000000?style=for-the-badge&logo=amd&logoColor=white" />
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </td>
+</tr>
 </table>
 
 <!-- Active Vectors -->
