@@ -152,11 +152,9 @@
   </tr>
 </table>
 
-<br>
 <sub><sup>🔒 Все вычисления выполняются локально. Данные не покидают контур. Shadow Mode: ON.</sup></sub>
 </details>
 
-<br>
 <!-- Active Vectors -->
 <h3>🔭 Current Research Logs</h3>
 <ul>
