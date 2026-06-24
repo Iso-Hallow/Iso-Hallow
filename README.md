@@ -48,7 +48,8 @@
   ▸ <b>Core:</b> Docker Compose, Nginx (Reverse Proxy), Self-hosted Ecosystem.<br>
   ▸ <b>Observability:</b> Uptime Kuma, Prometheus, Grafana, Logs.<br>
   ▸ <b>Data & State:</b> MySQL Tuning, Backup Strategies, NAS Architecture.<br>
-  ▸ <b>Docs as Code:</b> Knowledge Base Migration, GitHub Pages.
+  ▸ <b>Docs as Code:</b> Knowledge Base Migration, GitHub Pages.<br>
+  ▸ <b>AI Core: Local LLM orchestration (Ollama), inference on AMD/NVIDIA, prompt engineering for observability & automation.
 </p>
 
 <!-- Tech Stack Matrix -->
@@ -111,7 +112,51 @@
   </td>
 </tr>
 </table>
+<!-- AI Research Lab (кейс) -->
+<details>
+<summary>🤖 <b>AI Research Lab: Локальная автоматизация (Развернуть)</b></summary>
+<br>
 
+<table>
+  <tr>
+    <td width="30%" valign="top"><b>Проект</b></td>
+    <td>Локальный ИИ-ассистент в закрытом контуре</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Архитектура</b></td>
+    <td>Интеграция Ollama с ядром инфраструктуры через Python API и Open WebUI.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Железо</b></td>
+    <td>
+      <b>Linux (OpenSUSE):</b> Ollama + CPU (ROCm в активном исследовании для RX 5700)<br>
+      <b>Windows (Stage):</b> LM Studio + RTX 3090 (24GB VRAM)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Что сделано</b></td>
+    <td>Разработан пайплайн локального запуска LLM для анализа логов и автоматического обнаружения аномалий в закрытом контуре. Данные не покидают границы среды (<b>Shadow Mode</b>).</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Текущий стек</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Open_WebUI-00B4D8?style=flat-square&logo=openwebui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROCm-000000?style=flat-square&logo=amd&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Статус</b></td>
+    <td>?? <b>Исследование</b> — переносимость AI-пайплайна между CPU (OpenSUSE) и GPU (Windows/NVIDIA), а также апстрим ROCm для Radeon RX 5700.</td>
+  </tr>
+</table>
+
+<br>
+<sub><sup>🔒 Все вычисления выполняются локально. Данные не покидают контур. Shadow Mode: ON.</sup></sub>
+</details>
+
+<br>
 <!-- Active Vectors -->
 <h3>🔭 Current Research Logs</h3>
 <ul>
