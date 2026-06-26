@@ -148,7 +148,7 @@
   </tr>
   <tr>
     <td valign="top"><b>Статус</b></td>
-    <td>?? <b>Исследование</b> — переносимость AI-пайплайна между CPU (OpenSUSE) и GPU (Windows/NVIDIA), а также апстрим ROCm для Radeon RX 5700.</td>
+    <td>🔬 <b>Исследование</b> — переносимость AI-пайплайна между CPU (OpenSUSE) и GPU (Windows/NVIDIA), а также апстрим ROCm для Radeon RX 5700.</td>
   </tr>
 </table>
 
